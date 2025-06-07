@@ -1,9 +1,9 @@
 title: "My AI Blog"
 description: "Deep Learning, AI, and Math"
-url: "https://yourusername.github.io"
-baseurl: "/ai-blog"  # Change if deploying to a different repo
+url: "https://littlecottage.github.io"
+baseurl: "/my-blog"  # Change if deploying to a different repo
 
-repository: yourusername/ai-blog
+repository: LittleCottage/my-blog
 
 theme: minimal-mistakes-jekyll
 
